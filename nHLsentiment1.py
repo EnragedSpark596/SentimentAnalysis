@@ -10,7 +10,7 @@ Aim is to gather content from:
 
 import requests
 from bs4 import BeautifulSoup
-import pandas
+
 import string
 
 #Target list
